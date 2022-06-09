@@ -1,0 +1,19 @@
+body {
+    background-image: url(../fundoparaomeuportifolio.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center, center;
+}
+h1 {
+    background-color: rgba(206, 211, 226, 0.5); 
+    
+}
+h2 {
+    background-color: rgba(10,23,55,0.5);
+}
+p, ul {
+    background-color: aliceblue;
+}
+a {
+    border-radius: 50%;
+}
